@@ -1,3 +1,5 @@
+// Programa que lê notas de um aluno e mostra a média final
+
 package application;
 
 import java.util.Locale;
